@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-yazannoura82/yazannoura82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+yazana82/yazan82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
